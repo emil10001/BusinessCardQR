@@ -1,1 +1,3 @@
 Add these two files to your website. Just add in your email address, and your own message. Then, you can create a QR code with the address of the html file. When a user scans the image, they will be taken to that page, and immediately have their default email client open with a canned message to send to you. I've put my QR code on the back of my business card, so that I can have people scan it when I give it out. I figure, I'll have them send me an email, plus it should make for an interesting experience for the user - scanning something and having something actually happen on their phone. I'm also including my QR code so that you can test this out and send me an email if you want.
+
+By <a href="plus.google.com/u/0/110693175237378228684?rel=author">E John Feig</a>
